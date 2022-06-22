@@ -25,7 +25,7 @@ II.	Weiters wird ein „develop“ branch hinzugefügt als Zwischenspeicher zum 
 ![grafik](https://user-images.githubusercontent.com/105013150/175053699-8c38cc4d-9177-4142-94b8-b08194817a99.png)
 
 
-2.	User Stories
+# 2.	User Stories
 I.	Als nächstes wird ein neues Projekt mit dem Basic Kanban Template erstellt.
 
 ![grafik](https://user-images.githubusercontent.com/105013150/175054553-b83ba12b-52a1-4ecf-8e91-5c012954fea7.png)
@@ -45,6 +45,26 @@ IV.	Das Issue wird einem Bearbeiter assigned und als feature/ einer neuen featur
  
 ![grafik](https://user-images.githubusercontent.com/105013150/175058558-6ecfccfa-2f45-44dd-85f9-667826cf6d22.png)
 
+
+# 3.	Impelmentierung
+
+Nun beginnen wir mit der Umsetzung der ersten Userstory und setzten ein Neues Java Projekt auf.
+
+
+
+I.	Ein neues IntelliJ Java Projekt mit Spring Boot wird erstellt
+
+![grafik](https://user-images.githubusercontent.com/105013150/175059495-90f4c827-b020-4f87-bbc6-b47ed9f4bb9a.png)
+
+i.	Name und Lokales Verzeichnis werden vergeben
+
+C:\FHTW\SS2022\SLM\ImperialAPICalculator
+
+ii. bei einem ersten TEST des localhost auf Port 8080 erkennen wir das derzeit keine Verbindung herstellt werden kann.
+![grafik](https://user-images.githubusercontent.com/105013150/175061142-cfb6c3f9-7621-4b84-8e9d-3e1cf15299af.png)
+
+iii. wird Spring boot gestartet bekommen wir den Error 404, dass der Server nicht erreichbar ist.
+![grafik](https://user-images.githubusercontent.com/105013150/175063479-1ff005f9-f292-469e-8c08-9538a1905c7c.png)
 
 
 V.	Die erstellte feature/ branch muss nun gefetched werden und nach einem Checkout kann innerhalb der feature/ branch mit der Erstellung des Codes begonnen werden.
