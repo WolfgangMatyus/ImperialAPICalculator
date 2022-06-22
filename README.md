@@ -26,7 +26,7 @@ II.	Weiters wird ein „develop“ branch hinzugefügt als Zwischenspeicher zum 
 
 
 # 2.	User Stories
-I.	Als nächstes wird ein neues Projekt mit dem Basic Kanban Template erstellt.
+**I.	Als nächstes wird ein neues Projekt mit dem Basic Kanban Template erstellt.
 
 ![grafik](https://user-images.githubusercontent.com/105013150/175054553-b83ba12b-52a1-4ecf-8e91-5c012954fea7.png)
 
@@ -51,8 +51,7 @@ IV.	Das Issue wird einem Bearbeiter assigned und als feature/ einer neuen featur
 Nun beginnen wir mit der Umsetzung der ersten Userstory und setzten ein Neues Java Projekt auf.
 
 
-
-I.	Ein neues IntelliJ Java Projekt mit Spring Boot wird erstellt
+**I.	Ein neues IntelliJ Java Projekt mit Spring Boot wird erstellt
 
 ![grafik](https://user-images.githubusercontent.com/105013150/175059495-90f4c827-b020-4f87-bbc6-b47ed9f4bb9a.png)
 
@@ -70,6 +69,9 @@ iv. Wenn wir nun testweise eine Route mit Rückgabewert implementieren wird und 
 ![grafik](https://user-images.githubusercontent.com/105013150/175063479-1ff005f9-f292-469e-8c08-9538a1905c7c.png)
 ![grafik](https://user-images.githubusercontent.com/105013150/175064186-030b7866-8694-435d-8f62-1b4730634b9a.png)
 
+**II. Wir können also nun damit beginnen unser online GIT Repo mit dem lokalen Repo zu verknüpfen und das erste feature/ bearbeiten und abschließen.
+
+i. da
 
 V.	Die erstellte feature/ branch muss nun gefetched werden und nach einem Checkout kann innerhalb der feature/ branch mit der Erstellung des Codes begonnen werden.
 
