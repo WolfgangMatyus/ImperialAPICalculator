@@ -64,7 +64,11 @@ ii. bei einem ersten TEST des localhost auf Port 8080 erkennen wir das derzeit k
 ![grafik](https://user-images.githubusercontent.com/105013150/175061142-cfb6c3f9-7621-4b84-8e9d-3e1cf15299af.png)
 
 iii. wird Spring boot gestartet bekommen wir den Error 404, dass der Server nicht erreichbar ist.
+![grafik](https://user-images.githubusercontent.com/105013150/175063731-c09b715a-c460-4493-b3d4-e4067fe87583.png)
+
+iv. Wenn wir nun testweise eine Route mit Rückgabewert implementieren wird und der Rückgabewert angezeit.
 ![grafik](https://user-images.githubusercontent.com/105013150/175063479-1ff005f9-f292-469e-8c08-9538a1905c7c.png)
+![grafik](https://user-images.githubusercontent.com/105013150/175064186-030b7866-8694-435d-8f62-1b4730634b9a.png)
 
 
 V.	Die erstellte feature/ branch muss nun gefetched werden und nach einem Checkout kann innerhalb der feature/ branch mit der Erstellung des Codes begonnen werden.
