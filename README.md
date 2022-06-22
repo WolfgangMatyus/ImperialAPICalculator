@@ -32,17 +32,17 @@ II.	Weiters wird ein „develop“ branch hinzugefügt als Zwischenspeicher zum 
 ![grafik](https://user-images.githubusercontent.com/105013150/175054553-b83ba12b-52a1-4ecf-8e91-5c012954fea7.png)
 
 
-II.	Die bestehenden Notes aus dem Template werden entfernt und die ersten User Stories als Notes erfasst.
+**II.	Die bestehenden Notes aus dem Template werden entfernt und die ersten User Stories als Notes erfasst.**
 
 ![grafik](https://user-images.githubusercontent.com/105013150/175056542-34745512-b4c4-4c07-a22d-d28e438abed5.png)
 
 
-III.	Die Notes werden dann in Issues umgewandelt und zugewiesen und wandern für die Implementierung zur Spalte „In progress“ und werden dadurch in Bearbeitung genommen.
+**III.	Die Notes werden dann in Issues umgewandelt und zugewiesen und wandern für die Implementierung zur Spalte „In progress“ und werden dadurch in Bearbeitung genommen.**
 
 ![grafik](https://user-images.githubusercontent.com/105013150/175057868-f3321a13-bf4e-4165-9eeb-865d3a8fd8ec.png)
 
 
-IV.	Das Issue wird einem Bearbeiter assigned und als feature/ einer neuen feature branch zugewiesen.
+****IV.	Das Issue wird einem Bearbeiter assigned und als feature/ einer neuen feature branch zugewiesen.**
  
 ![grafik](https://user-images.githubusercontent.com/105013150/175058558-6ecfccfa-2f45-44dd-85f9-667826cf6d22.png)
 
@@ -70,9 +70,11 @@ iv. Wenn wir nun testweise eine Route mit Rückgabewert implementieren wird und 
 ![grafik](https://user-images.githubusercontent.com/105013150/175063479-1ff005f9-f292-469e-8c08-9538a1905c7c.png)
 ![grafik](https://user-images.githubusercontent.com/105013150/175064186-030b7866-8694-435d-8f62-1b4730634b9a.png)
 
-**II. Wir können also nun damit beginnen unser online GIT Repo mit dem lokalen Repo zu verknüpfen und das erste feature/ bearbeiten und abschließen.
+**II. Wir können also nun damit beginnen unser online GIT Repo mit dem lokalen Repo zu verknüpfen und das erste feature/ bearbeiten und abschließen.**
 
-i. da
+i. Dafür verwenden wir Sourcetree und die die https:// URL aus Github und Clonen auf das lokale Verzeichnis.
+![grafik](https://user-images.githubusercontent.com/105013150/175067555-37f50761-07ba-4d26-9efe-eafc4e525bbb.png)
+
 
 V.	Die erstellte feature/ branch muss nun gefetched werden und nach einem Checkout kann innerhalb der feature/ branch mit der Erstellung des Codes begonnen werden.
 
