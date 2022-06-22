@@ -33,7 +33,23 @@ I.	Als nächstes wird ein neues Projekt mit dem Basic Kanban Template erstellt.
 
 II.	Die bestehenden Notes aus dem Template werden entfernt und die ersten User Stories als Notes erfasst.
 
+![grafik](https://user-images.githubusercontent.com/105013150/175056542-34745512-b4c4-4c07-a22d-d28e438abed5.png)
 
 
 III.	Die Notes werden dann in Issues umgewandelt und zugewiesen und wandern für die Implementierung zur Spalte „In progress“ und werden dadurch in Bearbeitung genommen.
-  
+
+![grafik](https://user-images.githubusercontent.com/105013150/175057868-f3321a13-bf4e-4165-9eeb-865d3a8fd8ec.png)
+
+
+IV.	Das Issue wird einem Bearbeiter assigned und als feature/ einer neuen feature branch zugewiesen.
+ 
+![grafik](https://user-images.githubusercontent.com/105013150/175058558-6ecfccfa-2f45-44dd-85f9-667826cf6d22.png)
+
+
+
+V.	Die erstellte feature/ branch muss nun gefetched werden und nach einem Checkout kann innerhalb der feature/ branch mit der Erstellung des Codes begonnen werden.
+
+
+
+
+VI.	Wurde der Code fertiggestellt, commited und gepushed Kann das feature in Github über den Pull Request auf eventuelle Fehler untersucht werden und in den develop branch gemerged werden. Das Issue ist somit erledigt und kann auf Done verschoben und geclosed werden. 
