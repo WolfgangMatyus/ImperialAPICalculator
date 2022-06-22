@@ -20,4 +20,5 @@ iii.	und eine MIT License hinzugefügt.
 
 ![grafik](https://user-images.githubusercontent.com/105013150/175053289-d66c02b7-93ea-4ed2-b347-d62be2fc9f66.png)
 
+II.	Weiters wird ein „develop“ branch hinzugefügt als Zwischenspeicher zum Schutz der main branch.
 
