@@ -26,7 +26,7 @@ II.	Weiters wird ein „develop“ branch hinzugefügt als Zwischenspeicher zum 
 
 
 # 2.	User Stories
-**I.	Als nächstes wird ein neues Projekt mit dem Basic Kanban Template erstellt.
+**I.	Als nächstes wird ein neues Projekt mit dem Basic Kanban Template erstellt.**
 
 ![grafik](https://user-images.githubusercontent.com/105013150/175054553-b83ba12b-52a1-4ecf-8e91-5c012954fea7.png)
 
