@@ -72,13 +72,40 @@ iv. Wenn wir nun testweise eine Route mit Rückgabewert implementieren wird und 
 
 **II. Wir können also nun damit beginnen unser online GIT Repo mit dem lokalen Repo zu verknüpfen und das erste feature/ bearbeiten und abschließen.**
 
-i. Dafür verwenden wir Sourcetree und die die https:// URL aus Github und Clonen auf das lokale Verzeichnis.
+i. Dafür wird verwenden  die https:// URL aus Github und auf das lokale Verzeichnis gecloned.
 ![grafik](https://user-images.githubusercontent.com/105013150/175067555-37f50761-07ba-4d26-9efe-eafc4e525bbb.png)
+![grafik](https://user-images.githubusercontent.com/105013150/175072981-4f3fbf82-6215-4f1a-8329-311a08b909c4.png)
+
+ii. Sind alle files erfolgreich vorhanden und automatisch geadded worden kann der Initial Commit durchgeführt werden.
+![grafik](https://user-images.githubusercontent.com/105013150/175074021-a80a4307-baba-49a5-8e14-83320a9205e4.png)
+
+iii. im anschluss werden die files gepushed um die Datein auf das online Repo zu laden.
+![grafik](https://user-images.githubusercontent.com/105013150/175074846-86b3f422-befb-4638-a8c1-12586ccd1a81.png)
+
+die Repositories sind jetzt verknüpft.
+![grafik](https://user-images.githubusercontent.com/105013150/175075022-0e9da00f-eeba-471c-8359-1e59bca37915.png)
 
 
-V.	Die erstellte feature/ branch muss nun gefetched werden und nach einem Checkout kann innerhalb der feature/ branch mit der Erstellung des Codes begonnen werden.
+**V.	Die erstellte feature/ branch muss nun gefetched werden und nach einem Checkout kann innerhalb der feature/ branch mit der Erstellung des Codes begonnen werden.**
+![grafik](https://user-images.githubusercontent.com/105013150/175075185-a7771d45-2c21-4f03-8022-bc4c931f162e.png)
+![grafik](https://user-images.githubusercontent.com/105013150/175075326-5b0a6092-54a9-4312-9a62-3f2f261c88c9.png)
+
+i. der main branch wird in develop und der develop in den feature/ branch gemerged um mit der aktuellsten Version weiterzuarbeiten.
 
 
 
+# 4.	Pipeline
+**I.	Wokflows unter Actions werden erstellt** 
+![grafik](https://user-images.githubusercontent.com/105013150/175077840-6dda9969-c377-419c-b251-bc2d6afb766d.png)
 
-VI.	Wurde der Code fertiggestellt, commited und gepushed Kann das feature in Github über den Pull Request auf eventuelle Fehler untersucht werden und in den develop branch gemerged werden. Das Issue ist somit erledigt und kann auf Done verschoben und geclosed werden. 
+i. Develop: hier muss die branch und die JDK und Java-version angepasst werden:
+![grafik](https://user-images.githubusercontent.com/105013150/175078955-f4898641-9e5d-4f08-9dbc-0016db320c2f.png)
+
+
+ii. Main: hier muss JDK und Java Verion angepasst werden und der download für den Build des Artifacts wird hier hinterlegt
+
+![grafik](https://user-images.githubusercontent.com/105013150/175078642-4259b96a-9241-49c6-990e-649e163101fe.png)
+
+
+**VI.	Wurde der Code fertiggestellt, commited und gepushed Kann das feature in Github über den Pull Request auf eventuelle Fehler untersucht werden und in den develop branch gemerged werden. Das Issue ist somit erledigt und kann auf Done verschoben und geclosed werden.**
+
