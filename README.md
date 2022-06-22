@@ -10,3 +10,11 @@ BWI-BB-2-SS2022
 
 wi21b055
 Wolfgang Matyus
+
+
+# 1.	Git/Github
+I.	Zuerst wird ein neues Repository in Github erstellt. Dabei wird
+i.	ein README File 
+ii.	ein .gitignore für Maven
+iii.	und eine MIT License hinzugefügt.
+
